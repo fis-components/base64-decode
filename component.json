@@ -1,0 +1,10 @@
+{
+    "name": "base64-decode",
+    "description": "Decode base-64 strings with JavaScript",
+    "repos": "https://github.com/ForbesLindesay/base64-decode.git",
+    "main": "server.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "1.0.2"
+}
